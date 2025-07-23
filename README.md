@@ -1,5 +1,8 @@
 # Guidence_BAIS
 
+### BAIS Intro Guid PPT
+[CLICK here](https://www.comp.nus.edu.sg/wp-content/uploads/2025/07/UGBriefing-2025-BAISBZA-Final-DISA.pdf)
+
 ### SoC Global Opportunities
 (e.g., Stduent exchange, NOC, summer school)  
 [CLICK here](https://www.comp.nus.edu.sg/programmes/ug/beyond/global/)
